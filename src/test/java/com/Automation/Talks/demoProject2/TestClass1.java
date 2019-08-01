@@ -46,7 +46,7 @@ public class TestClass1 {
 
 		driver.navigate().to("https://automationtalks.com/");
 
-		System.out.println("Testest 3 title is " + driver.getTitle());
+		System.out.println("Test 3 title is " + driver.getTitle());
 
 	}
 

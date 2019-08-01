@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="59506" started-at="2019-07-31T23:03:00Z" finished-at="2019-07-31T23:04:00Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="59506" started-at="2019-07-31T23:03:00Z" finished-at="2019-07-31T23:04:00Z">
+      <class name="com.Automation.Talks.demoProject2.TestClass1">
+        <test-method status="PASS" signature="launchDriver()[pri:0, instance:com.Automation.Talks.demoProject2.TestClass1@531be3c5]" name="launchDriver" is-config="true" duration-ms="13255" started-at="2019-07-31T19:03:00Z" finished-at="2019-07-31T19:03:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.Automation.Talks.demoProject2.TestClass1@531be3c5]" name="test1" duration-ms="8878" started-at="2019-07-31T19:03:14Z" finished-at="2019-07-31T19:03:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.Automation.Talks.demoProject2.TestClass1@531be3c5]" name="quit" is-config="true" duration-ms="1726" started-at="2019-07-31T19:03:23Z" finished-at="2019-07-31T19:03:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="launchDriver()[pri:0, instance:com.Automation.Talks.demoProject2.TestClass1@531be3c5]" name="launchDriver" is-config="true" duration-ms="10634" started-at="2019-07-31T19:03:24Z" finished-at="2019-07-31T19:03:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:com.Automation.Talks.demoProject2.TestClass1@531be3c5]" name="test2" duration-ms="6469" started-at="2019-07-31T19:03:35Z" finished-at="2019-07-31T19:03:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.Automation.Talks.demoProject2.TestClass1@531be3c5]" name="quit" is-config="true" duration-ms="1390" started-at="2019-07-31T19:03:41Z" finished-at="2019-07-31T19:03:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="launchDriver()[pri:0, instance:com.Automation.Talks.demoProject2.TestClass1@531be3c5]" name="launchDriver" is-config="true" duration-ms="10229" started-at="2019-07-31T19:03:43Z" finished-at="2019-07-31T19:03:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchDriver -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:com.Automation.Talks.demoProject2.TestClass1@531be3c5]" name="test3" duration-ms="5436" started-at="2019-07-31T19:03:53Z" finished-at="2019-07-31T19:03:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.Automation.Talks.demoProject2.TestClass1@531be3c5]" name="quit" is-config="true" duration-ms="1448" started-at="2019-07-31T19:03:58Z" finished-at="2019-07-31T19:04:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.Automation.Talks.demoProject2.TestClass1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

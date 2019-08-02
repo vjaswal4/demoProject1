@@ -23,5 +23,14 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/17786/.m2/repository/net/sourceforge/htmlunit/htmlunit/2.26/htmlunit-2.26.jar" sourcepath="C:/Users/17786/.m2/repository/net/sourceforge/htmlunit/htmlunit/2.26/htmlunit-2.26-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="net.sourceforge.htmlunit"/>
+			<attribute name="maven.artifactId" value="htmlunit"/>
+			<attribute name="maven.version" value="2.26"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
